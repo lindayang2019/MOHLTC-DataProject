@@ -3,6 +3,7 @@
 ## Step 1 Install Environment
 Install software.
  - [MongoDB](https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.3-signed.msi) or latest community version from [here](https://www.mongodb.com/download-center/community)
+     - Choose 'Custom', uncheck 'Install Mongo DB Campass'
  - [MongoDB Compass](https://downloads.mongodb.com/compass/mongodb-compass-community-1.15.4-win32-x64.exe) or latest community version from [here](https://www.mongodb.com/download-center/compass) - Official GUI for MongoDB
  - [Robo 3T](https://robomongo.org/) - Lightweight GUI for MongoDB (Better)
  - Your favorite IDE for Javascript, I prefer [Webstorm](https://www.jetbrains.com/webstorm/).
